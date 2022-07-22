@@ -3,7 +3,8 @@
 <div style="display: inline_block"><br>
  - 📖 Estudando Front-end <img align="center" height="20" width="30" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg"><br>
  - 💻 Trabalhando na Fiorilli Software
-</div><br>
+</div>
+<br>
 
  ##
 
