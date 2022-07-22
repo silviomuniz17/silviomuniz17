@@ -1,7 +1,10 @@
  # Oi sou Silvio Muniz, Bem vindo ao meu perfil 👋
 
-- 📖 Estou estudando Front-end
-- 💻 Trabalhando na Fiorilli Software
+<div style="display: inline_block"><br>
+ - 📖 Estudando Front-end <img align="center" height="20" width="30" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg"><br>
+ - 💻 Trabalhando na Fiorilli Software
+</div>
+
 
 <div align="center">
   <a href="https://github.com/silviomuniz17">
@@ -16,9 +19,8 @@
   <img align="center" alt="Silvio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
-<div style="display: inline_block"><br>
-  - 📖 Estou estudando Front-end <img align="center" alt="Silvio-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
-</div>
+
+ 
   ##
  
 <div> 
